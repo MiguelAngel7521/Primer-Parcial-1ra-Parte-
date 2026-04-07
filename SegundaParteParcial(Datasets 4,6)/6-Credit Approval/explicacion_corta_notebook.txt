@@ -23,5 +23,3 @@ Tambien se prueba optimizacion con scipy.optimize.
 Se calculan predicciones en train/test y metricas: accuracy, precision, recall y F1.
 Se muestra ademas una interpretacion final orientada al contexto clinico.
 
-Nota:
-Para evitar errores por orden de ejecucion, corre las celdas de arriba hacia abajo despues de reiniciar kernel.
